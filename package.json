@@ -1,0 +1,27 @@
+{
+    "name": "izi-controllers",
+    "description": "Express controllers with annotations",
+    "version": "0.1.0",
+    "author": "Vinicius Wrubleski <vinicius.wrubleski@gmail.com>",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/viniwrubleski/izi-controllers.git"
+    },
+    "contributors": [],
+    "dependencies": {
+        "annotations": ">=0.1.337"
+    },
+    "devDependencies": {
+        "express": "3.x"
+    },
+    "keywords": [
+        "express",
+        "controller",
+        "mvc",
+        "annotations"
+    ],
+    "main": "index",
+    "engine": {
+        "node": ">= 0.10.0"
+    }
+}
